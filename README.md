@@ -39,3 +39,7 @@ Before you begin, ensure you have the following installed:
 - **Data Filtering**: Use the sidebar to filter data based on different criteria.
 - **Key Performance Indicators (KPIs)**: Display important metrics at the top of the dashboard.
 - **Interactive Charts**: Visualize data with interactive bar charts and line charts.
+
+![image](https://github.com/user-attachments/assets/a84895b2-a436-49a0-a85f-61a87d507404)
+![image](https://github.com/user-attachments/assets/9b4914f9-b0c2-4f39-abe7-0c81a0d215cb)
+
